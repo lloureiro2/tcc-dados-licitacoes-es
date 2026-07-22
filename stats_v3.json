@@ -1,0 +1,40 @@
+{
+  "total_registros": 93337,
+  "total_detalhe": 102634,
+  "medianas": 2578,
+  "produtos": 188,
+  "comparacoes": 865,
+  "triangulacoes": 325,
+  "por_fonte": {
+    "estadual": 14149,
+    "federal": 7860,
+    "municipal": 80625
+  },
+  "por_ano": {
+    "2019": 4487,
+    "2020": 5544,
+    "2021": 5238,
+    "2022": 12148,
+    "2023": 25630,
+    "2024": 23884,
+    "2025": 19379,
+    "2026": 6324
+  },
+  "cidades": [
+    "Aracruz",
+    "Barra de São Francisco",
+    "Cachoeiro de Itapemirim",
+    "Cariacica",
+    "Colatina",
+    "Guarapari",
+    "Linhares",
+    "Marataízes",
+    "Nova Venécia",
+    "Santa Maria de Jetibá",
+    "Serra",
+    "São Mateus",
+    "Viana",
+    "Vila Velha",
+    "Vitória"
+  ]
+}
