@@ -30,7 +30,8 @@ Colunas dos arquivos `precos_v3_*.csv`:
 
 ## Números gerais
 
-- **93.337** registros de preços consolidados
+- **102.634** registros de itens de licitação consolidados (`precos_v3_todos.csv`)
+- **93.337** registros efetivamente utilizados no cálculo das medianas (após corte dos percentis 5–95 para remoção de outliers)
 - **188** produtos normalizados
 - **15** municípios do ES + esferas estadual e federal
 - Período: **2019 a 2026**
